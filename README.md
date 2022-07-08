@@ -11,13 +11,12 @@ Il s'agit d'un projet d'imitation d'API ensuite adapté à la fédération togol
 ##  Installation des outils necessaires pour la création de l'API
                 (les outils utilisés)
                 
-    - Nodes.js
-    - Npm (qui vient en même temps qu'on installe node.js)
-    - Nvm
-    - Le terminal ou l'invite de commande pour l'execution des commandes necessaires
-    - Un éditeur de texte.
-    - Postman (pour tester l'API)
-    - Heroku (pour l'hebergement du site)
+    ### Nodes.js
+    ### Installation npm – Node Package Manager
+    ### Nvm – Node Version Manager
+    ### Le terminal pour l'execution des commandes necessaires
+    ### Postman (pour tester l'API)
+    ### Heroku (pour l'hebergement du site)
      
      Tous ces outils ont permis de mettre en place un environnement favorable afin de rendre      effectif le projet.
      
