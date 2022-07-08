@@ -1,9 +1,9 @@
 
-#  CREATION D'UN API POUR LA FEDERATION TOGOLAISE DE FOOTBALL.
+##  Création d'un API RESTful en Node.js (avec Express.js)
 
-Il s'agit d'un projet d'imitation d'API ensuite adapté à la féderation togolaie de football pour en faire le leur afin de pouvoir traiter les informations des joueurs par différentes méthodes. Ce projet à été fait sans basede données, juste la modelisation et le controleur qui ont été mis en avant. Le projet après s'être realisé a été hebergé sur Heroku et envoyé sur github.
+Il s'agit d'un projet d'imitation d'API ensuite adapté à la fédération togolaie de football pour en faire le leur afin de pouvoir traiter les informations des joueurs par différentes méthodes. Ce projet à été fait sans base de données, juste la modelisation et le controleur qui ont été mis en avant. Le projet après s'être realisé a été hebergé sur Heroku et envoyé sur github.
 
-##  Le liens ver le repos github 
+##  Le liens vers le repos github 
 
 *  https://github.com/Massahgenesis/API_FTF
 
@@ -11,43 +11,46 @@ Il s'agit d'un projet d'imitation d'API ensuite adapté à la féderation togola
 ##  Installation des outils necessaires pour la création de l'API
                 (les outils utilisés)
                 
-    - Nodes.js
-    - npm (qui vient en même temps qu'on installe node.js)
-    - nvm
-    - le terminal ou l'invite de commande pour l'execution des commandes necessaires
-    - un éditeur de texte.
-    - postman (pour tester l'API)
+    * Nodes.js
+    * Npm (qui vient en même temps qu'on installe node.js)
+    * Nvm
+    * Le terminal ou l'invite de commande pour l'execution des commandes necessaires
+    * Un éditeur de texte.
+    * Postman (pour tester l'API)
+    * Heroku (pour l'hebergement du site)
      
      Tous ces outils ont permis de mettre en place un environnement favorable afin de rendre      effectif le projet.
      
      
-    ## Les Fonctionnalitésde l'API
-    -
+    ## Les Fonctionnalités de l'API et tes tavec les différentes methodes
     
-    ### GET
+    ### GET method
     
     Cette methode est utilisée pour chercher les information du jour à partir de l'identifiant
     
     <img width="726" alt="get:heroku" src="https://user-images.githubusercontent.com/102354727/177833372-840d0412-0b1f-4bd5-a793-d6cd5f42018d.png">
     
     
-    ### POST
+    ### POST method
     
     cette methode permet de creation de nouvelles données pour un joueur
     
 <img width="688" alt="post" src="https://user-images.githubusercontent.com/102354727/177834479-9e970adb-8b4c-4a20-b34b-8a8051f7c660.png">
 
 
-### PUT
+### PUT method
 
 cette methode consiste à modifier les données d'un joueur
 
 <img width="694" alt="put:heroku" src="https://user-images.githubusercontent.com/102354727/177834749-975edf17-3fcd-4cab-94f9-5af191e41ac2.png">
 
 
-### DELETE
+### DELETE method
+
 cette methode permet de supprimer les données d'un joueur.
-<img width="702" alt="delete:heroku" src="https://user-images.githubusercontent.com/102354727/177834967-fa83cd87-a249-45a4-b300-304a98c609bc.png">
+
+<img width="1067" alt="Capture d’écran 2022-07-08 à 08 13 10" src="https://user-images.githubusercontent.com/102354727/177950508-964051d5-c982-4856-a64a-6f0e8f5c5ad6.png">
+
 
 
 ##LE SCRIPT
